@@ -1,0 +1,53 @@
+                            Bug reports
+ID          1
+Project     "Telegram"
+Issue Type  Bug
+Summary     Unable to make a video call.
+            STR:
+            1. Launch application Telegram;
+            2. Find the contact in the contact list using the "search"
+            function;
+            3. Click on the contact icon;
+            4. In the dialog box, click on the "Kebab Menu" icon in
+Description the right corner;
+            5. Select a video call from the list.
+
+            Actual result: Crash message is shown after trying to
+            make a video call.
+
+            Expected result: Opportunity to make video call.
+Reporter    Oleksii Pereverziev
+Severity    Critical
+Environment Android 11, Xiaomi Mi 10 lite, MIUI 12.1.3
+
+
+
+
+Attachments
+
+
+
+
+ID          2
+Project     "Telegram"
+Issue Type  Bug
+Summary     Unable to end an active session.
+            STR:
+            1.Launch application Telegram;
+            2.In the dialog box, click on the "Hamburger Menu" icon
+            in the left corner;
+            3.Select a settings from the list;
+            4.In the settings tab, select the Privacy and security
+            section;
+Description 5.In the Privacy and Security tab, select Active
+            Sessions in the Security section;
+            6.Click on the button "End active sessions".
+
+            Actual result: Error message is shown after trying to
+            end session.
+            Expected result: End active session.
+
+Reporter    Oleksii Pereverziev
+Severity    Critical
+Environment Android 10, Xiaomi Mi 10 lite, MIUI 12.1.3
+Attachments
